@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
   "fmt"
   "io/ioutil"
 )
@@ -8,4 +8,5 @@ import (
 type Page struct {
   Title string
   Body []byte
-}
+}*/
+
